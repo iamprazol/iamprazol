@@ -1,0 +1,27 @@
+{
+    "name": "Prajjwal Poudel",
+    "headline": "Software Engineer / Product Builder",
+    "intro": "I build production software and developer tools, mostly in PHP, Laravel, WordPress and React. I work on WordPress plugins with a large user base, including User Registration.",
+    "location": {
+        "label": "Kathmandu, NP",
+        "lat": 27.7172,
+        "lng": 85.324,
+        "timezone": "Asia/Kathmandu"
+    },
+    "links": {
+        "github": "https://github.com/iamprazol",
+        "linkedin": "https://www.linkedin.com/in/prajjwal-poudel-980861178/",
+        "x": "",
+        "email": "iamprazol@gmail.com"
+    },
+    "howIWork": [
+        "Understand the system before changing it",
+        "Find the real constraint",
+        "Ship the smallest change that solves it",
+        "Test the paths users actually take",
+        "Leave the code easier to change"
+    ],
+    "leadership": {
+        "developersLed": 15
+    }
+}
